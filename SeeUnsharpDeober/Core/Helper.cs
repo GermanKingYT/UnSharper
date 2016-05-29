@@ -23,6 +23,7 @@ namespace SeeUnsharpDeober.Core
                 if (type.Name == "<Module>") continue;
                 foreach (MethodDef method in type.Methods)
                 {
+                    if (!method.HasBody) continue;
                     if (!method.IsConstructor) continue;
                     var instrsdec = method.Body.Instructions;
                     if (instrsdec.Count < 5) continue;
@@ -79,6 +80,7 @@ namespace SeeUnsharpDeober.Core
             {
                 foreach (MethodDef method in type.Methods)
                 {
+                    if (!method.HasBody) continue;
                     var instrsdec = method.Body.Instructions;
                     for (int i = 0; i < instrsdec.Count; i++)
                     {

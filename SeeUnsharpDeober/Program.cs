@@ -72,6 +72,7 @@ namespace SeeUnsharpDeober
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine(@"[!] Saved ! ");
                         Console.ForegroundColor = ConsoleColor.Gray;
+                        return;
                         Console.ReadKey();
                     }
                     else

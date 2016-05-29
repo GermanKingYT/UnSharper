@@ -1,0 +1,9 @@
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\SeeUnsharpDeober.exe.config
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\SeeUnsharpDeober.exe
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\SeeUnsharpDeober.pdb
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\dnlib.dll
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\dnlib.pdb
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\dnlib.xml
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\obj\Debug\SeeUnsharpDeober.csprojResolveAssemblyReference.cache
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\obj\Debug\SeeUnsharpDeober.exe
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\obj\Debug\SeeUnsharpDeober.pdb

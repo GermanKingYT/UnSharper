@@ -1,0 +1,8 @@
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\UnSharper.exe.config
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\UnSharper.exe
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\UnSharper.pdb
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\dnlib.dll
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\dnlib.pdb
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\bin\Debug\dnlib.xml
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\obj\Debug\UnSharper.exe
+c:\users\xenocode\documents\visual studio 2015\Projects\SeeUnsharpDeober\SeeUnsharpDeober\obj\Debug\UnSharper.pdb
